@@ -45,6 +45,9 @@ brew install --verbose \
     youtube-dl \
     ffmpeg \
     imagemagick \
+    librsvg \
+    potrace \
+    inkscape \
     pygments
 
 # install your favorite macOs apps
